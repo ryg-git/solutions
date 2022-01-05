@@ -4,6 +4,10 @@ fun solve() {
     val n = next().toInt()
     val p = next().split(" ").map { it.toInt() }
 
+
+
+
+
 }
 
 fun main() {
