@@ -8,6 +8,10 @@ fun solve() {
     for (i in 1..n) {
         val (a, b, c, d) = listOf(nMax, nMax, nMax, nMax)
 
+
+
+
+
     }
 
 }
